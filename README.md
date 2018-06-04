@@ -1,14 +1,14 @@
 # BTC-Fork-Parser
- Tool for parsing all UTXO under number of fork block:
-   BCH, BTG, BTX, BCX, BCD, BTCI, BTCP, LBTC, BTV, SBTC, B2X, UBTC, BTCC.
- Simply edit forkhelper.py add your BTC Public Keys
-   Usage: 
+ Tool for parsing all UTXO under number of fork block:<br>
+   BCH, BTG, BTX, BCX, BCD, BTCI, BTCP, LBTC, BTV, SBTC, B2X, UBTC, BTCC.<br>
+ Simply edit forkhelper.py add your BTC Public Keys<br>
+   Usage: <br>
 ```sh
   $ python forkhelper.py
  ```
  
- Tool for convert your public key to fork format. (Not support P2SH segwit, only uncompressed or compressed)
-  Usage: 
+ Tool for convert your public key to fork format. (Not support P2SH segwit, only uncompressed or compressed)<br>
+  Usage: <br>
 ```sh
  $ sh convertAddress.sh `<YOUR_PUB_KEY>` 
 ```
