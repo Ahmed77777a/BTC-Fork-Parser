@@ -1,4 +1,4 @@
-import hashlib, sys
+﻿import hashlib, sys
 
 b58ab = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
 

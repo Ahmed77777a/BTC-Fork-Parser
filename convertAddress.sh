@@ -1,33 +1,34 @@
-#!/bin/bash
-Echo "BTG"
+﻿#!/bin/sh
+#
+echo "BTG"
 python convert_address.py $1 BTG
-Echo "BTF"
+echo "BTF"
 python convert_address.py $1 BTF
-Echo "BTW"
+echo "BTW"
 python convert_address.py $1 BTW
-Echo "BTH"
+echo "BTH"
 python convert_address.py $1 BTH
-Echo "BTP"
+echo "BTP"
 python convert_address.py $1 BTP
-Echo "---------"
-Echo "BTCH"
+echo "---------"
+echo "BTCH"
 python convert_address.py $1 BTCH
-Echo "BTSQ"
+echo "BTSQ"
 python convert_address.py $1 BTSQ
-Echo "BTCP"
+echo "BTCP"
 python convert_address.py $1 BTCP
-Echo "---------"
-Echo "BBC"
+echo "---------"
+echo "BBC"
 python convert_address.py $1 BBC
-Echo "BCX"
+echo "BCX"
 python convert_address.py $1 BCX
-Echo "BCA"
+echo "BCA"
 python convert_address.py $1 BCA
-Echo "BCI"
+echo "BCI"
 python convert_address.py $1 BCI
-Echo "BPA"
+echo "BPA"
 python convert_address.py $1 BPA
-Echo "CDY"
+echo "CDY"
 python convert_address.py $1 CDY
-Echo "GOD"
+echo "GOD"
 python convert_address.py $1 GOD
