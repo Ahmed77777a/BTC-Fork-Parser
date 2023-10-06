@@ -12,9 +12,7 @@ import sys
 # Insert your BTC addresses, one per line 
 
 addresses = """
-17U7b8NdUcNoMPmKwKLS4rwhtJoRN8F3PV
-17U7b8NdUcNoMPmKwKLS4rwhtJoRN8F3PV
-17U7b8NdUcNoMPmKwKLS4rwhtJoRN8F3PV
+bc1qkp3h2tv2decvmk7w77umwukw0z5gxua3vk55rf
 
 
 """
